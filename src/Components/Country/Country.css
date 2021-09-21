@@ -1,0 +1,11 @@
+.country img{
+    width: 200px;
+}
+.country{
+    background-color: darkgrey;
+    border: 3px solid blueviolet;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    color: deeppink;
+}
